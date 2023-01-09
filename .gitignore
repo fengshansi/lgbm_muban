@@ -1,0 +1,9 @@
+模型保存
+数据及处理/divdata
+数据及处理/sourcedata
+output
+__pycache__
+model_lgbm/*.db
+model_lgbm/*.jpg
+model_nn
+
